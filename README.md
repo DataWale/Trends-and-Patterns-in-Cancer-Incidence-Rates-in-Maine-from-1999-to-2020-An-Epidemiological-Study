@@ -1,0 +1,2 @@
+# Trends-and-Patterns-in-Cancer-Incidence-Rates-in-Maine-from-1999-to-2020-An-Epidemiological-Study
+Citation: U.S. Cancer Statistics Working Group. U.S. Cancer Statistics Data Visualizations Tool, based on 2022 submission data (1999-2020): U.S. Department of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; https://www.cdc.gov/cancer/dataviz, released in November 2023.
